@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791046667405,
+  "timestamp": 1791046683039,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -113,6 +113,9 @@
     "charLifePlans",
     "_migration"
   ],
+  "chunkedTables": {
+    "imageStore": 1
+  },
   "completedTables": {
     "characters": true,
     "friendRequests": true,
@@ -150,7 +153,8 @@
     "groupChats": true,
     "xinsheng": true,
     "xinshengRounds": true,
-    "pomodoroSessions": true
+    "pomodoroSessions": true,
+    "couplesData": true
   },
   "source": "auto",
   "inProgress": true
