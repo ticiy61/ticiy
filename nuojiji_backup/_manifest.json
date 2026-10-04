@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791132711026,
+  "timestamp": 1791132718156,
   "appVersion": "6.9.91 (2026.10.04)",
   "tables": [
     "characters",
@@ -118,7 +118,7 @@
     "messages": 4,
     "stickerStore": 4,
     "roleStickers": 3,
-    "stickers": 3
+    "stickers": 4
   },
   "completedTables": {
     "characters": true,
@@ -222,8 +222,7 @@
     "chatSettingsPresets": true,
     "charBondSpaces": true,
     "charLifePlans": true,
-    "_migration": true,
-    "stickers": true
+    "_migration": true
   },
   "inProgress": true
 }
