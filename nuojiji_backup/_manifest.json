@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791104592977,
+  "timestamp": 1791104599717,
   "appVersion": "6.9.91 (2026.10.04)",
   "tables": [
     "characters",
@@ -117,13 +117,12 @@
     "imageStore": 10,
     "messages": 2,
     "stickerStore": 2,
-    "stickers": 3
+    "stickers": 4
   },
   "completedTables": {
     "characters": true,
     "friendRequests": true,
     "worldBooks": true,
-    "stickers": true,
     "kaomojis": true,
     "users": true,
     "userState": true,
