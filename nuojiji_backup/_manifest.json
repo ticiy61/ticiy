@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "timestamp": 1792378365680,
+  "timestamp": 1792380351639,
   "appVersion": "",
   "source": "auto",
   "device": "app-android",
@@ -237,7 +237,7 @@
     "_migration": true
   },
   "complete": true,
-  "lastCompleteAt": 1792378365680,
+  "lastCompleteAt": 1792380351639,
   "secretsIncluded": false,
   "inProgress": false,
   "files": {
@@ -281,25 +281,20 @@
       "gz": false,
       "b": "db3420ccf5ab6abfd410c78979c5142427b03c8a"
     },
-    "_localStorage.json": {
-      "h": "g:a5224cf710faea696630d30dff93ab4152d887cb",
+    "globalSettings.json": {
+      "h": "g:6044b3408b71ac560126f127068d4c6968297f94",
       "gz": false,
-      "b": "a5224cf710faea696630d30dff93ab4152d887cb"
+      "b": "6044b3408b71ac560126f127068d4c6968297f94"
     },
-    "userPosts.json": {
-      "h": "g:7f1b1f8a5e432eda5a225eae6f7d56cf06da4e6e",
+    "_localStorage.json": {
+      "h": "g:59acaed182c22a9694a7b4b765a252b21f94d5f9",
       "gz": false,
-      "b": "7f1b1f8a5e432eda5a225eae6f7d56cf06da4e6e"
+      "b": "59acaed182c22a9694a7b4b765a252b21f94d5f9"
     },
     "chatSettings.json": {
       "h": "g:a76bada856c1b2c6df33529be1d89dd5f1e8d6cc",
       "gz": false,
       "b": "a76bada856c1b2c6df33529be1d89dd5f1e8d6cc"
-    },
-    "globalSettings.json": {
-      "h": "g:b8e4f5992eca971ab118e1cec6f98acde82f1a37",
-      "gz": false,
-      "b": "b8e4f5992eca971ab118e1cec6f98acde82f1a37"
     },
     "messages_chunk_0.json": {
       "h": "g:d7e023bced0cf4d21918da9080bb51c22adb5e07",
@@ -342,9 +337,9 @@
       "b": "f6a24403a1688a60c7a9e1c44503003ab5d5b4f3"
     },
     "userState.json": {
-      "h": "g:8e3a7cdc5ebfb11d9b4ec67519529f77b3eef167",
+      "h": "g:9b8afa195a3e370f12ec2c90abd003c7704c717f",
       "gz": false,
-      "b": "8e3a7cdc5ebfb11d9b4ec67519529f77b3eef167"
+      "b": "9b8afa195a3e370f12ec2c90abd003c7704c717f"
     },
     "messages_chunk_8.json": {
       "h": "g:028456b075dd5cf60450eba577a2ca89782d85a8",
@@ -511,6 +506,11 @@
       "gz": false,
       "b": "733293d654fa2415b4eaaabf840855531eca4985"
     },
+    "userPosts.json": {
+      "h": "g:99ac72bf34b1847bcce27677e68ff3ddbff75d85",
+      "gz": false,
+      "b": "99ac72bf34b1847bcce27677e68ff3ddbff75d85"
+    },
     "xinshengRounds.json": {
       "h": "g:e834d46724e6f755f38c5bceccb88fddbc4ed55e",
       "gz": false,
@@ -536,15 +536,15 @@
       "gz": false,
       "b": "0daec1c517f17dbbc339bd9b611eadaad4be9fd9"
     },
-    "calendarData.json": {
-      "h": "g:1613a3894335302dec9de91f3d471e07b82d724c",
-      "gz": false,
-      "b": "1613a3894335302dec9de91f3d471e07b82d724c"
-    },
     "imageStore_chunk_2.json": {
       "h": "g:36e468cd2009943543f4d51767f686dc60c5ad0b",
       "gz": false,
       "b": "36e468cd2009943543f4d51767f686dc60c5ad0b"
+    },
+    "calendarData.json": {
+      "h": "g:f2ad6f273da64dc6597a2203d031915c015de6b7",
+      "gz": false,
+      "b": "f2ad6f273da64dc6597a2203d031915c015de6b7"
     },
     "imageStore_chunk_3.json": {
       "h": "g:b25817e30d7b7c94a53f41729cb59c87549c31e5",
@@ -750,16 +750,6 @@
       "h": "g:8243f1a772e22877edec2a7ce76e178926a2a71a",
       "gz": false,
       "b": "8243f1a772e22877edec2a7ce76e178926a2a71a"
-    },
-    "imageStore_chunk_44.json": {
-      "h": "g:e113722a2b56c7491c9946de783027392ff67111",
-      "gz": false,
-      "b": "e113722a2b56c7491c9946de783027392ff67111"
-    },
-    "imageStore_chunk_45.json": {
-      "h": "g:81cd3abb018b0f7ffba8846a6cea7961b51c42e9",
-      "gz": false,
-      "b": "81cd3abb018b0f7ffba8846a6cea7961b51c42e9"
     },
     "stickerStore_chunk_0.json": {
       "h": "g:0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
@@ -1160,6 +1150,16 @@
       "h": "g:2bf2af0bc914fe6035d83f063f3f255f624adb48",
       "gz": false,
       "b": "2bf2af0bc914fe6035d83f063f3f255f624adb48"
+    },
+    "imageStore_chunk_44.json": {
+      "h": "g:a9936d186425117b29c20d27fca62c42dda24be2",
+      "gz": false,
+      "b": "a9936d186425117b29c20d27fca62c42dda24be2"
+    },
+    "imageStore_chunk_45.json": {
+      "h": "g:13e6a22fdebc389686c65120e9944f4dd468eab8",
+      "gz": false,
+      "b": "13e6a22fdebc389686c65120e9944f4dd468eab8"
     }
   }
 }
