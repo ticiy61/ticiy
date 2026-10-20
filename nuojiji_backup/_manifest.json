@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "timestamp": 1792461937559,
+  "timestamp": 1792464017564,
   "appVersion": "",
   "source": "auto",
   "device": "app-android",
@@ -237,7 +237,7 @@
     "_migration": true
   },
   "complete": true,
-  "lastCompleteAt": 1792461937559,
+  "lastCompleteAt": 1792464017564,
   "secretsIncluded": false,
   "inProgress": false,
   "files": {
@@ -255,11 +255,6 @@
       "h": "g:b6ac9cb076d68f9bc91f2f531d72ac0c1da59ace",
       "gz": false,
       "b": "b6ac9cb076d68f9bc91f2f531d72ac0c1da59ace"
-    },
-    "globalSettings.json": {
-      "h": "g:12fc5114fcd4589530e80212715c4613385f668d",
-      "gz": false,
-      "b": "12fc5114fcd4589530e80212715c4613385f668d"
     },
     "stickers_chunk_0.json": {
       "h": "g:18e0adecfd17a548239131f442371f63722d6a8b",
@@ -286,15 +281,20 @@
       "gz": false,
       "b": "db3420ccf5ab6abfd410c78979c5142427b03c8a"
     },
-    "userState.json": {
-      "h": "g:ecd2eb2e7d454c0f2ba685d31da99c02e50a8c5b",
+    "_localStorage.json": {
+      "h": "g:b5d9260619acf1ceea010998fabf8f8b72df0993",
       "gz": false,
-      "b": "ecd2eb2e7d454c0f2ba685d31da99c02e50a8c5b"
+      "b": "b5d9260619acf1ceea010998fabf8f8b72df0993"
     },
     "userPosts.json": {
       "h": "g:7c0dc7ecfab8f5ea1f907b4071aaf7213e6b6178",
       "gz": false,
       "b": "7c0dc7ecfab8f5ea1f907b4071aaf7213e6b6178"
+    },
+    "globalSettings.json": {
+      "h": "g:871d697328626d03c619fa4aed03aab2c3513e74",
+      "gz": false,
+      "b": "871d697328626d03c619fa4aed03aab2c3513e74"
     },
     "chatSettings.json": {
       "h": "g:e5ac01d7d092e5726658358f4ef20352380e606c",
@@ -340,6 +340,11 @@
       "h": "g:f6a24403a1688a60c7a9e1c44503003ab5d5b4f3",
       "gz": false,
       "b": "f6a24403a1688a60c7a9e1c44503003ab5d5b4f3"
+    },
+    "userState.json": {
+      "h": "g:236188208a0f153a89b85a1d9ad518de9e17f366",
+      "gz": false,
+      "b": "236188208a0f153a89b85a1d9ad518de9e17f366"
     },
     "messages_chunk_8.json": {
       "h": "g:028456b075dd5cf60450eba577a2ca89782d85a8",
@@ -531,20 +536,15 @@
       "gz": false,
       "b": "63ba0f9d4092a295d4c12b0dc3088033c53a4192"
     },
-    "_localStorage.json": {
-      "h": "g:36a043f66a0b5d82178210dad340695b58702af7",
-      "gz": false,
-      "b": "36a043f66a0b5d82178210dad340695b58702af7"
-    },
     "imageStore_chunk_0.json": {
       "h": "g:ccbad92719765dfb7c1b227c038eb74104118de1",
       "gz": false,
       "b": "ccbad92719765dfb7c1b227c038eb74104118de1"
     },
     "calendarData.json": {
-      "h": "g:7313edba3a86ca2afb3e936367cab0bc0e721e15",
+      "h": "g:d2693498c36aa563299c7975924f3390fcdc1b6f",
       "gz": false,
-      "b": "7313edba3a86ca2afb3e936367cab0bc0e721e15"
+      "b": "d2693498c36aa563299c7975924f3390fcdc1b6f"
     },
     "imageStore_chunk_1.json": {
       "h": "g:0daec1c517f17dbbc339bd9b611eadaad4be9fd9",
