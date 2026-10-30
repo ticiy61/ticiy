@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "timestamp": 1793380560199,
+  "timestamp": 1793382422901,
   "appVersion": "",
   "source": "auto",
   "device": "app-android",
@@ -247,7 +247,7 @@
     "_migration": true
   },
   "complete": true,
-  "lastCompleteAt": 1793380560199,
+  "lastCompleteAt": 1793382422901,
   "secretsIncluded": false,
   "inProgress": false,
   "files": {
@@ -291,20 +291,20 @@
       "gz": false,
       "b": "67a4bb06b91f0be57943c1e43dbe511bbd451f49"
     },
-    "userState.json": {
-      "h": "g:39340bc16e4227ade76cfe713d579c727d32e23f",
-      "gz": false,
-      "b": "39340bc16e4227ade76cfe713d579c727d32e23f"
-    },
     "globalSettings.json": {
-      "h": "g:36315e69c4403100958a192e352499068e7a7532",
+      "h": "g:09965e6d91c4ae6b6bcc78d9d78c23b8abc80c9d",
       "gz": false,
-      "b": "36315e69c4403100958a192e352499068e7a7532"
+      "b": "09965e6d91c4ae6b6bcc78d9d78c23b8abc80c9d"
+    },
+    "userPosts.json": {
+      "h": "g:34d056396651d805d0d171a5deeb22e6b694ca31",
+      "gz": false,
+      "b": "34d056396651d805d0d171a5deeb22e6b694ca31"
     },
     "_localStorage.json": {
-      "h": "g:d783ae8ec791cd7c64fa19949b7346f78784c115",
+      "h": "g:e7c106c0b7858fff2f6fd0033ba5cd232240d152",
       "gz": false,
-      "b": "d783ae8ec791cd7c64fa19949b7346f78784c115"
+      "b": "e7c106c0b7858fff2f6fd0033ba5cd232240d152"
     },
     "chatSettings.json": {
       "h": "g:6c2b916095da1fa7d542f644b367a1f6068ce835",
@@ -370,6 +370,11 @@
       "h": "g:5f1b800a0b9af610795da2bb2bc9b273832dac4a",
       "gz": false,
       "b": "5f1b800a0b9af610795da2bb2bc9b273832dac4a"
+    },
+    "userState.json": {
+      "h": "g:e6e80eab9f56e691cb1238c07c8a4b3735693d3e",
+      "gz": false,
+      "b": "e6e80eab9f56e691cb1238c07c8a4b3735693d3e"
     },
     "messages_chunk_12.json": {
       "h": "g:eaf816f2cd2869662c76f6d093c617920e350a60",
@@ -566,11 +571,6 @@
       "gz": false,
       "b": "823b3d9f9157d8e73efcec85bc35c1264da37fff"
     },
-    "userPosts.json": {
-      "h": "g:34d056396651d805d0d171a5deeb22e6b694ca31",
-      "gz": false,
-      "b": "34d056396651d805d0d171a5deeb22e6b694ca31"
-    },
     "xinshengRounds.json": {
       "h": "g:9f3744addaeb2dcff52aa9976e64273e971c879f",
       "gz": false,
@@ -597,9 +597,9 @@
       "b": "0daec1c517f17dbbc339bd9b611eadaad4be9fd9"
     },
     "calendarData.json": {
-      "h": "g:fdb6dae9d13adff211473609dd3e3fb315b4776c",
+      "h": "g:90b52603184cc8956c485495a3c267751d4ab8a5",
       "gz": false,
-      "b": "fdb6dae9d13adff211473609dd3e3fb315b4776c"
+      "b": "90b52603184cc8956c485495a3c267751d4ab8a5"
     },
     "imageStore_chunk_2.json": {
       "h": "g:36e468cd2009943543f4d51767f686dc60c5ad0b",
